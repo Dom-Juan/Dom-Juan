@@ -2,7 +2,7 @@
 ### 👋 Oi eu sou @Dom-Juan
 - 👀 Estou interessado em estágio pagou ou não pago com benefícios nas áreas :
   * Front-end (JavaScript ou TypeScript).
-  * Back-end (JavaScript com Node.js, Rust ou Java).
+  * Back-end (JavaScript com Node.js).
   * Full Stack (com as linguagens citadas acima).
 - 🌱 Estou aprendendo atualmente:
   * Typescript
@@ -35,7 +35,7 @@
 ### 👋 Hi, I’m @Dom-Juan
 - 👀 I’m interested in paid intership or non paid intership with benefits in the areas:
   * Front-end (JavaScript or TypeScript).
-  * Back-end (JavaScript with Node.js, Rust or Java).
+  * Back-end (JavaScript with Node.js).
   * Full Stack (with cited languages above).
 - 🌱 I’m currently learning:
   * Typescript
