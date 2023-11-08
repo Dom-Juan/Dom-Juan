@@ -10,7 +10,8 @@
   * Python para AI/ML com Keras e Tensorflow.
   * Java (de novo!).
 - 📖 Sou aluno em graduação na [FCT-UNESP](https://www.fct.unesp.br/) em Presidente Prudente.
-- ⭐ Destaques de meus trabalhos recentes na faculdade:
+- ⭐ Destaques de meus trabalhos recentes:
+  * [Web Scraper simples da store page Amazon](https://github.com/Dom-Juan/simple_amazon_product_scraper)
   * [Encriptação, geração de SHAs e Hashs](https://github.com/Dom-Juan/Atividades-SI)
   * [Front-end React JS com MySQL](https://github.com/Dom-Juan/Projeto-BD-I)
   * [Back-end com Node JS + MySQL](https://github.com/Dom-Juan/Projeto-BD-II)
@@ -43,7 +44,8 @@
   * Python for AI/ML with Keras and Tensorflow.
   * Java (again!).
 - 📖 I'm currently an undergraduate at [FCT-UNESP](https://www.fct.unesp.br/) in Presidente Prudente.
-- - ⭐ Highlights projects i did on my graduation:
+- - ⭐ Highlights on my complete projects:
+  * [Simple Amazon store page web scraper](https://github.com/Dom-Juan/simple_amazon_product_scraper)
   * [Encrypting with SHA and generating Hashs](https://github.com/Dom-Juan/Atividades-SI)
   * [Front-end React JS with MySQL](https://github.com/Dom-Juan/Projeto-BD-I)
   * [Back-end with Node JS + MySQL](https://github.com/Dom-Juan/Projeto-BD-II)
