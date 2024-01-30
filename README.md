@@ -1,15 +1,17 @@
 ## PT-BR
 ### 👋 Oi eu sou @Dom-Juan
-- 👀 Estou interessado em estágio pagou ou não pago com benefícios nas áreas :
+- Vivo em São Paulo
+- 👀 Estou interessado em vagas júniores ou processos trainees nas áreas:
   * Front-end (JavaScript ou TypeScript).
   * Back-end (JavaScript com Node.js).
   * Full Stack (com as linguagens citadas acima).
+  * Data Science.
 - 🌱 Estou aprendendo atualmente:
   * Typescript
-  * Rust
-  * Python para AI/ML com Keras e Tensorflow.
+  * Rust (Na luta).
+  * Python para AI/ML com Keras e Tensorflow. 
   * Java (de novo!).
-- 📖 Sou aluno em graduação na [FCT-UNESP](https://www.fct.unesp.br/) em Presidente Prudente.
+- 📖 Sou Bacharel em Ciências da Computação da [FCT-UNESP](https://www.fct.unesp.br/) de Presidente Prudente.
 - ⭐ Destaques de meus trabalhos recentes:
   * [Web Scraper simples da store page Amazon](https://github.com/Dom-Juan/simple_amazon_product_scraper)
   * [Encriptação, geração de SHAs e Hashs](https://github.com/Dom-Juan/Atividades-SI)
@@ -26,7 +28,7 @@
   * C/C++
   * Java
   * Node JS
-  * Bootstrap (4.0+)
+  * Bootstrap (5.X)
   * Insomnia REST
   * DBeaver(MySQL)
 - 📫 Contacte-me:
@@ -34,16 +36,18 @@
   * https://www.linkedin.com/in/juan-cardoso-da-silva-0582131b9/
 ## EN-US
 ### 👋 Hi, I’m @Dom-Juan
-- 👀 I’m interested in paid intership or non paid intership with benefits in the areas:
+- Currently living in São Paulo
+- 👀 I’m interested in junior or trainee work in the areas of:
   * Front-end (JavaScript or TypeScript).
   * Back-end (JavaScript with Node.js).
   * Full Stack (with cited languages above).
+  * Data Science.
 - 🌱 I’m currently learning:
   * Typescript
-  * Rust
+  * Rust (fighting for my life!)
   * Python for AI/ML with Keras and Tensorflow.
   * Java (again!).
-- 📖 I'm currently an undergraduate at [FCT-UNESP](https://www.fct.unesp.br/) in Presidente Prudente.
+- 📖 I'm an Bachelor of Computer Science at [FCT-UNESP](https://www.fct.unesp.br/) of Presidente Prudente.
 - - ⭐ Highlights on my complete projects:
   * [Simple Amazon store page web scraper](https://github.com/Dom-Juan/simple_amazon_product_scraper)
   * [Encrypting with SHA and generating Hashs](https://github.com/Dom-Juan/Atividades-SI)
@@ -60,7 +64,7 @@
   * C/C++
   * Java
   * Node JS
-  * Bootstrap (4.0+)
+  * Bootstrap (5.X)
   * Insomnia REST
   * DBeaver(MySQL)
 - 📫 How to reach me:
